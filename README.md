@@ -13,6 +13,7 @@ Whispr-Go turns your speech into text and places it directly where you were typi
 - See a compact, colourful recording indicator while Whispr-Go is listening.
 - Choose your preferred microphone and test its live volume before recording.
 - Use **Groq Cloud** for fast online transcription or **Faster-Whisper Local** for private transcription on your computer.
+- Get guided help inside the app for creating and adding your own Groq API key.
 - Select your default transcription language.
 - Upload longer audio or video files and export the completed transcript as a TXT file.
 - Review, copy, or clear previous transcriptions from the History tab.
@@ -25,7 +26,7 @@ Whispr-Go turns your speech into text and places it directly where you were typi
 3. Run the installer, review the agreement, and enter the licensed email address and licence key issued by SteProTECH.
 4. Open Whispr-Go and select your microphone.
 5. Test the microphone and confirm that the volume meter responds when you speak.
-6. Add your Groq API key or install a Faster-Whisper local model.
+6. For Groq Cloud, select **Get one from Groq** beside the API-key field and follow the instructions. You can also install a Faster-Whisper local model without a Groq account.
 7. Select **Start Engine**, place the cursor where you want the text, and press **Ctrl+Alt+Space**.
 
 Whispr-Go supports 64-bit Windows 10 and Windows 11. If Windows displays an Unknown Publisher or SmartScreen prompt, confirm that the installer was downloaded from this official releases page before continuing.
